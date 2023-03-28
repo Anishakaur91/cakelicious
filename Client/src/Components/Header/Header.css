@@ -1,0 +1,59 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+.logo-img {
+  height: 100px;
+  width: 200px;
+}
+
+/*************
+Buttons / Links / li / inputs
+**************/
+.header-nav-list-item {
+  font-size: 1.25rem;
+  color: green;
+  display: inline-block;
+  width: 200px;
+  height: 100%;
+  margin: 0px;
+}
+
+.header-nav-list-item:hover {
+  color: gray;
+}
+
+/*************
+Typography
+**************/
+
+/*************
+Layout
+**************/
+
+.header {
+  background-color: pink;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.header-nav-link {
+  position: relative;
+  top: 0.5px;
+  margin-left: 2rem;
+}
+
+/*************
+Media Queries
+**************/
+@media (min-width: 800px) {
+  .header-nav {
+    display: flex;
+  }
+}

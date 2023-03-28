@@ -1,0 +1,32 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+.home-img {
+  height: 400px;
+  width: 500px;
+}
+.home-img:hover {
+  transform: scale(1.1);
+}
+.img-container {
+  transition: 0.3s all;
+}
+/*************
+Buttons / Links / li / inputs
+**************/
+
+/*************
+Typography
+**************/
+
+/*************
+Layout
+**************/
+
+/*************
+Media Queries
+**************/

@@ -1,0 +1,31 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links / li / inputs
+**************/
+
+/*************
+Typography
+**************/
+
+/*************
+Layout
+**************/
+.footer-container {
+  border: solid blue;
+  color: black;
+  padding: 30px;
+  font-size: larger;
+  text-align: center;
+  background-color: lavender;
+}
+
+/*************
+Media Queries
+**************/

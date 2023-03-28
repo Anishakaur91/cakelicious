@@ -1,0 +1,50 @@
+/*************
+General styling / Elements
+**************/
+h3 {
+  font-style: italic;
+  color: black;
+  font-size: 20px;
+}
+
+/*************
+Images
+**************/
+
+.cakes-img {
+  height: 300px;
+  width: 300px;
+}
+
+/*************
+Buttons / Links / li / inputs
+**************/
+.addtocart {
+  background-color: lightpink;
+  font-size: medium;
+}
+
+/*************
+Typography
+**************/
+
+/*************
+Layout
+**************/
+.cake-container {
+  margin: auto;
+  margin-top: 5%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+}
+
+/*************
+Media Queries
+**************/
+/* @media (min-width: 800px) {
+  .cake-container {
+    display: flex;
+    flexwrap:wrap;
+  }
+} */
